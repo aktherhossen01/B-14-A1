@@ -1,0 +1,22 @@
+*{
+     padding: 0;
+    margin: 0;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: aliceblue;
+    align-items: center; 
+   
+}
+.list{
+    display: flex;
+    justify-content: space-between;
+    gap: 35px;
+    align-items: center; 
+}
+.list li{
+    font-weight: 500;
+    list-style: none;
+}
